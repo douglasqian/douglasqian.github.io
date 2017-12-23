@@ -4,9 +4,9 @@ Simple, interactive personal website with external links
 
 ## Credits
 
-Powered by Jekyll
-Particle Theme by Nathan Randecker
-Check it out here (https://github.com/nrandecker/particle)
+Powered by Jekyll  
+Particle Theme by Nathan Randecker  
+Check it out here (https://github.com/nrandecker/particle)  
 
 The Theme features:
 
